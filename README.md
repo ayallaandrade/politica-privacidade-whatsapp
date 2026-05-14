@@ -1,0 +1,2 @@
+# politica-privacidade-whatsapp
+html
